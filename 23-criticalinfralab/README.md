@@ -1,5 +1,7 @@
 # semente
 
+**UPDATE:** the contents of these folders is being moved to the [main documentation repository](https://github.com/semente-de/documentation/). No further updated will be done here.
+
 ## Workshop during the launch event of Critical Infrastructure Lab
 
 **Amsterdam, April 2023**
